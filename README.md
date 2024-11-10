@@ -6,7 +6,7 @@
   >
     <img
       align="center"
-      alt="Activepieces"
+      alt="nomardAuto"
 src="https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4480-bc75-30a0c73ed340"
       style="width:100%;"
     />
@@ -19,7 +19,7 @@ src="https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4
 <a href="/LICENSE" target="_blank"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>&nbsp;<img src='https://img.shields.io/github/commit-activity/w/activepieces/activepieces/main?style=for-the-badge' />&nbsp;<a href='https://discord.gg/2jUXBKDdP8'><img src='https://img.shields.io/discord/966798490984382485?style=for-the-badge' /></a>
 </p>
 <p align="center">
-   An open source replacement for Zapier
+   A Zapier-like tool
 </p>
 
 <p align="center">
@@ -46,14 +46,14 @@ src="https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4
 <br>
 <br>
 
-# 🤯 Welcome to Activepieces
+# 🤯 Welcome to nomardAuto
 
-Your friendliest open source all-in-one automation tool, designed to be **extensible** through a **type-safe** pieces framework written in **Typescript**.
+Your friendliest  all-in-one automation tool, designed to be **extensible** through a **type-safe** pieces framework written in **Typescript**.
 
 <br>
 <br>
 
-## 🔥 Why Activepieces is Different:
+## 🔥 Why nomardAuto is Different:
 
 - **💖 Loved by Everyone**: Intuitive interface and great experience for both technical and non-technical users with a quick learning curve.
   
@@ -96,7 +96,7 @@ Your friendliest open source all-in-one automation tool, designed to be **extens
 
 ## 🔌 Create Your Own Piece
 
-Activepieces supports integrations with Google Sheets, OpenAI, Discord, RSS, and over 200 other services. [Check out the full list of supported integrations](https://www.activepieces.com/pieces), which is constantly expanding thanks to our community's contributions.
+nomardAuto supports integrations with Google Sheets, OpenAI, Discord, RSS, and over 200 other services. [Check out the full list of supported integrations](https://www.activepieces.com/pieces), which is constantly expanding thanks to our community's contributions.
 
 As an **open ecosystem**, all integration source code is accessible in our repository. These integrations are versioned and [published](https://www.npmjs.com/search?q=%40activepieces) directly to npmjs.com upon contribution.
 
@@ -110,7 +110,7 @@ You can easily create your own integration using our TypeScript framework. For d
 
 # License
 
-Activepieces' Community Edition is released as open source under the [MIT license](https://github.com/activepieces/activepieces/blob/main/LICENSE) and enterprise features are released under [Commercial License](https://github.com/activepieces/activepieces/blob/main/packages/ee/LICENSE)
+nomardAuto' Community Edition is released as open source under the [MIT license](https://github.com/activepieces/activepieces/blob/main/LICENSE) and enterprise features are released under [Commercial License](https://github.com/activepieces/activepieces/blob/main/packages/ee/LICENSE)
 
 
 Read more about the feature comparison here https://www.activepieces.com/docs/about/editions
